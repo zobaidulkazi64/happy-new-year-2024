@@ -1,0 +1,26 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.8",
+  "deps": {
+    "lerna": "^8.0.1"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "8587836968507943632"
+      },
+      {
+        "file": "package.json",
+        "hash": "16411059621681405379"
+      },
+      {
+        "file": "yarn.lock",
+        "hash": "1494536530521519350"
+      }
+    ]
+  }
+}
